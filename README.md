@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other contributors.
 - 🤔 I’m looking for help with AWS services.
 - 💬 Ask me about ReactJS, NodeJS.
-- ⚡ Fun fact: Listening songs while coding is an hobby!
+- ⚡ Fun fact: Listening songs while coding is a hobby!
 
 ### 🛠 Tech Stack
 - 💻 Javascript | Java | Python
