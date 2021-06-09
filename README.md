@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey there, I am Jaydev Bhavsar! 👋
 
-<!--
-**jaydev07/jaydev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Software Developer
+- 🔭 I’m currently working on Web Development, Data structures & Algorithms and Machine Learning.
+- 🌱 I’m currently learning NodeJS & ReactJS.
+- 👯 I’m looking to collaborate with other contributors.
+- 🤔 I’m looking for help with AWS services.
+- 💬 Ask me about ReactJS, NodeJS.
+- ⚡ Fun fact: Listening songs while coding is an hobby!
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- 💻 Javascript | Java | Python
+- 🌐 HTML | CSS | Bootstrap | jQuery | React.js | Node.js | REST-API | GraphQL
+- 🔭 MongoDB | SQL 
+- 🐍 Tensorflow | Scikit-learn | Keras | openCV
+- 🔧 Github | Visual Studio code | Eclipse | Anaconda | Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydev07&layout=compact&title_color=ffffff&bg_color=000000&text_color=ffffff)](https://github.com/jayde07/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=jaydev07&&show_icons=true&title_color=FFD700&icon_color=7fff00&text_color=daf7dc&bg_color=000000" />
