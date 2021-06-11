@@ -12,7 +12,7 @@
 - 💻 Javascript | Java | Python
 - 🌐 HTML | CSS | Bootstrap | jQuery | React.js | Node.js | REST-API | GraphQL
 - 🔭 MongoDB | SQL 
-- 🐍 Tensorflow | Scikit-learn | Keras | openCV
+- 🐍 Tensorflow | Scikit-learn | Keras | openCV | ROS 
 - 🔧 Github | Visual Studio code | Eclipse | Anaconda | Git
 
 
