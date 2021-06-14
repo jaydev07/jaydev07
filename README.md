@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaydev07&&show_icons=true&title_color=FFD700&icon_color=7fff00&text_color=daf7dc&bg_color=000000" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev07&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydev07&count_private=true&theme=gruvbox_duo" alt="Jas-Script" />
 
 ### Github Throphies
 
