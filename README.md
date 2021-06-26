@@ -1,5 +1,5 @@
 ### Hey there, I am Jaydev Bhavsar! 👋
-![](https://komarev.com/ghpvc/?username=jaydev07&color=brightgreen)
+<!-- ![](https://komarev.com/ghpvc/?username=jaydev07&color=brightgreen) -->
 
 - 💼 Software Developer
 - 🔭 I’m currently working on Web Development, Data structures & Algorithms and Machine Learning.
